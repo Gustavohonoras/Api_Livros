@@ -1,14 +1,9 @@
-### Entrega M4 - API de livros
-Ao clonar, rode o comando npm install para instalar as dependências
+# API de Livros em Express/TS
 
-Você poderá iniciar a aplicação rodando o comando:
+Esta é uma API simples construída em TypeScript com o framework Express, que oferece operações CRUD (Create, Read, Update, Delete) para livros em um banco de dados simulado. Além disso, medidas de segurança são implementadas utilizando as bibliotecas Zod e Helmet.
 
-```
-npm run dev
-```
+## Pré-requisitos
 
-Você poderá rodar os testes automáticos preparádos para essa aplicação rodando o comando:
+Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
-```
-npm run test
-```
+
